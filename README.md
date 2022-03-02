@@ -50,24 +50,20 @@ ___
 ## 1. 阅读
 * 阅读｜APP
   + https://github.com/gedoor/legado/releases/
-* 阅读｜weixin｜书源合集更新【2022.02月】
-  + https://mp.weixin.qq.com/s/MPZIvTcLD_CklOwvX9gmPQ
-  + haxc大佬的漫画源合集：
-  
-        https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
+* 阅读｜weixin｜书源合集更新【2022.03月】
+  + https://mp.weixin.qq.com/s/6xVVgHezW_16RW-DrlB6yA
   + namofree大佬的书源（通用，精简，比较适合大多数人）：
       1. 新增、修复了几个书源，删除失效书源；
-      2. 把原来删除的失效超星图书，找到修复版后重新加了进来；
-      3. 本书源适用于3.0版，2.0版阅读app应该大部分都能用，但不保证全部适用；
-      4. 建议把之前的Namo分组删除全新导入！
+      2. 重新收录超星图书、九九藏书、稻草人出版书源；
+      3. 起点排行榜、纵横排行榜、追书排行榜仅适用于找书，阅读时建议换源；
+      4. 本书源适用于3.0版，2.0版阅读app应该大部分都能用，但不保证全部适用；
+      5. 建议把之前的Namo分组删除全新导入！
   
         https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
   + 一程大佬的书源合集（通用，精简，比较适合大多数人）：
       1. 新增新书源
-      2. 书仓网、翻书阁等精选书源重写了手机版的
-      3. 修复失效书源
-      4. 删除了大量书源
-      5. 本次修改和删除的源比较多，建议删除全部旧书源再导入
+      2. 恢复了一些之前宕机删除的书源
+      3. 一些细节优化
   
         https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
   + 破冰大佬的书源合集：（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导入）：
@@ -76,7 +72,10 @@ ___
   + 破冰大佬的听书源合集：(需复制到浏览器下载后使用本地导入方式进行导入)：
   
         https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
-  + 糖果超甜大佬的女频书源合集：：
+  + haxc大佬的漫画源合集：
+  
+        https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
+  + 糖果超甜大佬的女频书源合集：（有更新）
         
         https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
   + 关耳大佬的女频书源合集：
