@@ -5,6 +5,8 @@
   + https://www.lanzoux.com/u/GoldRiver 
   + https://www.lanzoui.com/u/GoldRiver
 * [海阔视界纯新人上手使用指南（保姆级）](https://www.bilibili.com/video/BV1YN411Q7Ho)
+* [海阔视界常见问题系列（一）](https://mp.weixin.qq.com/s/ukMZ4D6eRm-OCAR1G8PaoQ)
+* [海阔视界常见问题（二）](https://mp.weixin.qq.com/s/Jp3Xn8IqapQhEJIz5DCY8A)
 * 海阔视界｜小程序：
 
   设置 > 剪贴板口令导入 > 贴上 > ok
