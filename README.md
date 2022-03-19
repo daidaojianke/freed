@@ -25,7 +25,7 @@
   + https://github.com/catvod/CatVodTVSpider/tree/master/jar
   + https://github.com/catvod/CatVodTVSpider/blob/master/XPath.md
   + https://catvod.github.io/CatVodTVJsonEditor/
-  +  https://netcut.cn/
+  + https://netcut.cn/
 * 猫影视TV｜接口
   + 设置 > 当前配置接口
 
@@ -52,6 +52,7 @@ ___
 ## 1. 阅读
 * 阅读｜APP
   + https://github.com/gedoor/legado/releases/
+  + https://mp.weixin.qq.com/s/6HjNEVpCmGsiGAhCOQ3EhA
 * 阅读｜weixin｜书源合集更新【2022.03月】
   + https://mp.weixin.qq.com/s/6xVVgHezW_16RW-DrlB6yA
   + namofree大佬的书源（通用，精简，比较适合大多数人）：
@@ -157,26 +158,19 @@ ___
 ## 2. Cimoc
 * Cimoc｜APP
   * https://github.com/Haleydu/Cimoc
-  * https://mp.weixin.qq.com/s/ZWX9EBCfBRFtniTKNXnpnw
+  * https://mp.weixin.qq.com/s/hx-rwnuRc0dnapSxAjR05w
 * 导入图源 > 粘贴 >
 
       https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
 
-## 3. cilidili (Cimoc IOS版本，已提交审核，还没上架)
+## 3. cilidili (Cimoc IOS版本，已上架)
 * cilidili｜介绍
-  * [Cimoc ios版本更新预告](https://mp.weixin.qq.com/s/ENnTYWKIV5mRiDzjF-8xUA)
-* cilidili｜ipa包 (自己签名后再安装)
-  * https://haleydu.lanzouq.com/iWMYPxph1zg
-  * [IOS版本应用签名教程（免越狱）](https://mp.weixin.qq.com/s/52cRNqOfl_iDQG8PaFSDpQ)
-* 图源
-
-      https://gitee.com/Haleydu/cilidili-plus/raw/master/source/customSource.json
-* 空图源 解决方法
-  * 设置 > 恢复默认设置
+  * [cimoc的ios版本已上架成功](https://mp.weixin.qq.com/s/fOFuOC6u2HS75jfyznPGXw)
 
 ## 4. 异次元
 * 异次元｜APP
   * https://yiciyuan.lanzoux.com/b00ej0kba
+  * https://mp.weixin.qq.com/s/EzQflhgUhthjUkP3nOXoAw
 * 异次元｜图源
   * [2022.02.20 无图标大整合源更新](https://mp.weixin.qq.com/s/v-sphUE942coFTM9liHCuA)
   * [2022.02.20 有图标大整合源更新](https://mp.weixin.qq.com/s/xInOkKKr4LP2uYkRQ8G-yQ)
