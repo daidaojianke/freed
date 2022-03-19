@@ -166,6 +166,9 @@ ___
 ## 3. cilidili (Cimoc IOS版本，已上架)
 * cilidili｜介绍
   * [cimoc的ios版本已上架成功](https://mp.weixin.qq.com/s/fOFuOC6u2HS75jfyznPGXw)
+* 图源
+
+      https://gitee.com/Haleydu/cilidili-plus/raw/master/source/customSource.json
 
 ## 4. 异次元
 * 异次元｜APP
