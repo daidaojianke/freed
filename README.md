@@ -158,7 +158,7 @@ ___
 ## 2. Cimoc
 * Cimoc｜APP
   * https://github.com/Haleydu/Cimoc
-  * https://mp.weixin.qq.com/s/hx-rwnuRc0dnapSxAjR05w
+  * https://mp.weixin.qq.com/s/d95X_re356QqNAgN8j013Q
 * 导入图源 > 粘贴 >
 
       https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
@@ -166,9 +166,9 @@ ___
 ## 3. cilidili (Cimoc IOS版本，已上架)
 * cilidili｜介绍
   * [cimoc的ios版本已上架成功](https://mp.weixin.qq.com/s/fOFuOC6u2HS75jfyznPGXw)
-* 图源
+* cilidili｜图源
 
-      https://gitee.com/Haleydu/cilidili-plus/raw/master/source/customSource.json
+      http://www.cimoc.top/source.json
 
 ## 4. 异次元
 * 异次元｜APP
