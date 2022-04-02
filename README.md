@@ -4,19 +4,17 @@
 * 海阔视界｜APP
   + https://www.lanzoux.com/u/GoldRiver 
   + https://www.lanzoui.com/u/GoldRiver
-* [海阔视界纯新人上手使用指南（保姆级）](https://www.bilibili.com/video/BV1YN411Q7Ho)
-* [海阔视界常见问题系列（一）](https://mp.weixin.qq.com/s/ukMZ4D6eRm-OCAR1G8PaoQ)
-* [海阔视界常见问题（二）](https://mp.weixin.qq.com/s/Jp3Xn8IqapQhEJIz5DCY8A)
+  + https://mp.weixin.qq.com/s/1ChjDFxTRwweiT5wU2_1BQ
+  + https://mp.weixin.qq.com/s/EwAx8k9yv9PcwTt0-tilcQ
+  + https://mp.weixin.qq.com/s/1sPF8QKfYFyS151bxJZ8lg
 * 海阔视界｜小程序：
+  + 设置 > 剪贴板口令导入 > 贴上 > ok
+  + [4月小程序源合集更新](https://mp.weixin.qq.com/s/Uz3OIr8uJWr2xlxz8W8VkA)
+* 海阔视界｜Q&A：
+  + [海阔视界纯新人上手使用指南（保姆级）](https://www.bilibili.com/video/BV1YN411Q7Ho)
+  + [海阔视界常见问题系列（一）](https://mp.weixin.qq.com/s/ukMZ4D6eRm-OCAR1G8PaoQ)
+  + [海阔视界常见问题（二）](https://mp.weixin.qq.com/s/Jp3Xn8IqapQhEJIz5DCY8A)
 
-  设置 > 剪贴板口令导入 > 贴上 > ok
-  1. 道长仓库Pro
-
-          https://cmd.im/i6uk
-
-  2. 香情影视
-  
-          https://cmd.im/6ddt
 
 ## 2. 猫影视TV
 * 猫影视TV｜APP
