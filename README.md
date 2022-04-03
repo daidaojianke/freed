@@ -4,6 +4,7 @@
 * 海阔视界｜APP
   + https://www.lanzoux.com/u/GoldRiver 
   + https://www.lanzoui.com/u/GoldRiver
+  + https://mp.weixin.qq.com/s/1gAlRAwqYkLWjOfL_gdg7Q
   + https://mp.weixin.qq.com/s/1ChjDFxTRwweiT5wU2_1BQ
   + https://mp.weixin.qq.com/s/EwAx8k9yv9PcwTt0-tilcQ
   + https://mp.weixin.qq.com/s/1sPF8QKfYFyS151bxJZ8lg
@@ -52,6 +53,7 @@ ___
 * 阅读｜APP
   + https://github.com/gedoor/legado/releases/
   + https://mp.weixin.qq.com/s/6HjNEVpCmGsiGAhCOQ3EhA
+  + https://mp.weixin.qq.com/s/D4rj5N3drFVyG2fYf0hMlw
 * 阅读｜weixin｜书源合集更新【2022.04月】
   + https://mp.weixin.qq.com/s/BMW9HDIAgHQRlSbSGzTtbQ
   + namofree大佬的书源（通用，精简，比较适合大多数人）：
@@ -158,6 +160,7 @@ ___
 ## 2. Cimoc
 * Cimoc｜APP
   * https://github.com/Haleydu/Cimoc
+  * https://mp.weixin.qq.com/s/Vig2HvlFaLjpJeV967hA_w
   * https://mp.weixin.qq.com/s/d95X_re356QqNAgN8j013Q
 * 导入图源 > 粘贴 >
 
