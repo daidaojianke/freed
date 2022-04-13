@@ -1,167 +1,187 @@
 #EXTM3U
-#EXTINF:-1 group-title="新聞直播",TVBS新闻 FHD ★
+#EXTINF:-1,TVBS新闻 FHD ★
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",东森财经新闻 FHD ★
+#EXTINF:-1,东森财经新闻 FHD ★
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",东森新闻 FHD ★
+#EXTINF:-1,东森新闻 FHD ★
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",华视新闻 FHD ★
+#EXTINF:-1,华视新闻 FHD ★
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",民视新闻 FHD ★
+#EXTINF:-1,民视新闻 FHD ★
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",三立iNews FHD ★
+#EXTINF:-1,三立iNews FHD ★
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",三立Live FHD ★
+#EXTINF:-1,三立Live FHD ★
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",台视新闻 FHD ★
+#EXTINF:-1,台视新闻 FHD ★
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",中视新闻 FHD ★
+#EXTINF:-1,中视新闻 FHD ★
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 group-title="新聞直播",壹新闻 FHD ★
+#EXTINF:-1,壹新闻 FHD ★
 http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
-#EXTINF:-1,RM+刘在石李光洙跑男
-http://183.232.171.91/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8
-#EXTINF:-1,韩版大逃脱三季系列
-http://183.232.171.91/tx.hls.huya.com/src/1199552182083-1199552182083-5395795326957256704-2399104487622-10057-A-0-1.m3u8
-#EXTINF:-1,【七龍珠改】超级赛亚人孙捂空
-http://183.232.171.91/tx.hls.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
-#EXTINF:-1,【Blue胖】你看得到我的腿吗
-http://183.232.171.91/tx.hls.huya.com/src/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.m3u8
-#EXTINF:-1,【猫和老鼠】汤姆和杰瑞的故事
-http://183.232.171.91/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
-#EXTINF:-1,猫和老鼠 世界上最好看的动画片
-http://183.232.171.91/tx.hls.huya.com/src/1099531768063-1099531768063-86501873997053952-2199063659582-10057-A-0-1.m3u8
-#EXTINF:-1,【海绵宝宝】黄方块的爆笑生活~
-http://183.232.171.91/tx.hls.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.m3u8
-#EXTINF:-1,一个会说话的方块形的黄色海绵
-http://183.232.171.91/tx.hls.huya.com/src/1099531768059-1099531768059-86501856817184768-2199063659574-10057-A-0-1.m3u8
-#EXTINF:-1,路飞带领大家向顶上前进
-http://183.232.171.91/tx.hls.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.m3u8
-#EXTINF:-1,头文字D·秋名山车神
-http://183.232.171.91/tx.hls.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.m3u8
-#EXTINF:-1,至今没有那部关于做菜的动漫能超越此片
-http://183.232.171.91/tx.hls.huya.com/src/1099531768062-1099531768062-86501869702086656-2199063659580-10057-A-0-1.m3u8
-#EXTINF:-1,蜡笔小新·逗比少年欢乐多
-http://183.232.171.91/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1,搞笑的一家人
-http://183.232.171.91/tx.hls.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8
-#EXTINF:-1,周星驰
-http://183.232.171.91/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1,成龙
-http://183.232.171.91/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1,刘德华
-http://183.232.171.91/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1,金庸经典剧+24小时轮播
-http://183.232.171.91/tx.hls.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.m3u8
-#EXTINF:-1,RunningMan
-http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 #EXTINF:-1,【RM-点播】点播！模式-24H欢乐不断
-http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv?uuid=
-#EXTINF:-1,全新影片
-http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1,周星驰
-http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1,华语经典
-http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=131977
+#EXTINF:-1,【RM-轮播】轮播！模式-24H欢乐不断
+http://zzy789.xyz/douyu1.php?id=7298973
+#EXTINF:-1,【特辑】精彩大片，欢迎品鉴
+http://zzy789.xyz/douyu1.php?id=3637778
+#EXTINF:-1,✨周星驰✨星爷华语经典电影神乐
+http://zzy789.xyz/douyu1.php?id=122402
+#EXTINF:-1,✨神乐✨华语经典电影沈腾周星驰
+http://zzy789.xyz/douyu1.php?id=85894
 #EXTINF:-1,【动漫】超燃怀旧经典
-http://dyscdnali1.douyucdn.cn/live/1174353rNV9kutoQ.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=1174353
 #EXTINF:-1,✨动漫✨热血木叶忍者草帽路飞青春
-http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=206858
 #EXTINF:-1,【超级赛亚人】悟吉塔
-http://dyscdnali1.douyucdn.cn/live/7190773rKSoAalxm.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=7190773
 #EXTINF:-1,【Hunter】动漫热血老贼冒险
-http://dyscdnali1.douyucdn.cn/live/6610883rdSnhO6m2.flv?uuid=
-#EXTINF:-1,动漫
-http://dyscdnali1.douyucdn.cn/live/7686674rFH7xe5Ay.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=6610883
 #EXTINF:-1,草帽丶海贼团的直播间
-http://dyscdnali1.douyucdn.cn/live/997925rsBT668jIk.flv?uuid=
-#EXTINF:-1,✨✨✨✨✨OK！
-http://dyscdnali1.douyucdn.cn/live/7528160rs3fEUM9F.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=997925
+#EXTINF:-1,欢欢喜喜，万事如意
+http://zzy789.xyz/douyu1.php?id=7528160
 #EXTINF:-1,♥卡面来打♥
-http://dyscdnali1.douyucdn.cn/live/1218414rr6ZjR26E.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=1218414
 #EXTINF:-1,【天使点播】动漫直播间
-http://dyscdnali1.douyucdn.cn/live/1487654rPnN0KiCq.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=1487654
 #EXTINF:-1,海绵与大星直播间
-http://dyscdnali1.douyucdn.cn/live/2250349rlW4vTmgr.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=2250349
 #EXTINF:-1,【柯南】外表看似小孩，智慧却过于常人
-http://dyscdnali1.douyucdn.cn/live/6484910rBRo02nhA.flv?uuid=
-#EXTINF:-1,成龙 小玉 老爹 释压 搞笑
-http://dyscdnali1.douyucdn.cn/live/7066113rWmmNiU1h.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=6484910
 #EXTINF:-1,【追忆】国语超清动画电影
-http://dyscdnali1.douyucdn.cn/live/6449849reAo5WYR5.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=6449849
 #EXTINF:-1,美味！蟹黄堡
-http://dyscdnali1.douyucdn.cn/live/8762358rSdwNfk7L.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=8762358
 #EXTINF:-1,星矢-燃烧吧我的小宇宙
-http://dyscdnali1.douyucdn.cn/live/8458270rdS7YPlD9.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=8458270
 #EXTINF:-1,万年如一柯播南
-http://dyscdnali1.douyucdn.cn/live/1783144rZI6B9vk0.flv?uuid=
-#EXTINF:-1,【游戏王】我的回合！
-http://dyscdnali1.douyucdn.cn/live/5100147rodpaDn84.flv?uuid=
-#EXTINF:-1,大星与海绵方块
-http://dyscdnali1.douyucdn.cn/live/3949681rjFj2u4gy.flv?uuid=
-#EXTINF:-1,【神剧】经典神剧
-http://dyscdnali1.douyucdn.cn/live/3700024rpw4YsCWm.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=1783144
 #EXTINF:-1,【童年往事】仨房间画面同步显示点播
-http://dyscdnali1.douyucdn.cn/live/7256376rUDEqJ0SN.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=7256376
 #EXTINF:-1,小当家、小埋陪伴大家
-http://dyscdnali1.douyucdn.cn/live/8231658rRGd8XKKo.flv?uuid=
-#EXTINF:-1,一入夏目深似海，来生愿作帐中妖
-http://dyscdnali1.douyucdn.cn/live/10210568ryEIxOFa.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=8231658
+#EXTINF:-1,一生无悔入夏目
+http://zzy789.xyz/douyu1.php?id=10210568
 #EXTINF:-1,少女与半妖
-http://dyscdnali1.douyucdn.cn/live/7422897rqodmTACQ.flv?uuid=
-#EXTINF:-1,【星星动画】童年 热血 搞笑 爱情
-http://dyscdnali1.douyucdn.cn/live/4369939rfKqHGxZe.flv?uuid=
+http://zzy789.xyz/douyu1.php?id=7422897
+#EXTINF:-1,【星星动画】童年热血搞笑爱情
+http://zzy789.xyz/douyu1.php?id=4369939
 #EXTINF:-1,【三笠】根本不存在解不开的迷！
-http://dyscdnali1.douyucdn.cn/live/7050342rGoVnkkl7.flv?uuid=
-#EXTINF:-1,【动漫】 24小时不间断 动漫专场
-http://dyscdnali1.douyucdn.cn/live/7493575rFwYPn0It.flv?uuid=
-#EXTINF:-1,【经典怀旧动画片】轮播
-http://dyscdnali1.douyucdn.cn/live/7360064rG3xZJuMe.flv?uuid=
-#EXTINF:-1,韩国女团
-http://dyscdnali1.douyucdn.cn/live/231464r9XzaQ89ir.flv?uuid=
-#EXTINF:-1,哆啦A梦新番 24小时连播 蓝胖子24小时播放
-http://106.53.212.251/daili/bili.php?id=482946
+http://zzy789.xyz/douyu1.php?id=7050342
+#EXTINF:-1,【动漫】24小时不间断动漫专场
+http://zzy789.xyz/douyu1.php?id=7493575
+#EXTINF:-1,【猫和老鼠】相亲相爱的一家人
+http://zzy789.xyz/douyu1.php?id=7888428
+#EXTINF:-1,【动画电影】童年回忆
+http://zzy789.xyz/douyu1.php?id=10395973
+#EXTINF:-1,【拳叔】那些经典的动漫
+http://zzy789.xyz/douyu1.php?id=9484105
+#EXTINF:-1,【樱木花道灌篮】PP动漫精彩解说
+http://zzy789.xyz/douyu1.php?id=9837291
+#EXTINF:-1,【神剧】经典神剧
+http://zzy789.xyz/douyu1.php?id=3700024
+#EXTINF:-1,【贝爷MAX厅】科幻动作经典喜剧
+http://zzy789.xyz/douyu1.php?id=4332
+#EXTINF:-1,【贝爷影厅】经典科幻动作灾难巨兽
+http://zzy789.xyz/douyu1.php?id=252802
+#EXTINF:-1,【女神金】60帧极致蓝光刀刀陪看
+http://zzy789.xyz/douyu1.php?id=747764
+#EXTINF:-1,【西游】由爱故生怨，怨恨交缠，那又何苦
+http://zzy789.xyz/douyu1.php?id=9518204
+#EXTINF:-1,狄仁杰：想听听我的故事吗
+http://zzy789.xyz/douyu1.php?id=674441
+#EXTINF:-1,【牛叔】N分钟带你看完大片
+http://zzy789.xyz/douyu1.php?id=2758565
+#EXTINF:-1,【科幻Fans】精彩科幻影视，解说连连看
+http://zzy789.xyz/douyu1.php?id=3508304
+#EXTINF:-1,最新奇幻电影解说-宇宙无敌韩三金
+http://zzy789.xyz/douyu1.php?id=3194372
+#EXTINF:-1,【女团】精选韩国现场饭拍MV
+http://zzy789.xyz/douyu1.php?id=231464
+#EXTINF:-1,哆啦A梦新番24小时连播蓝胖子24小时播放
+http://zzy789.xyz/bili.php?id=482946
 #EXTINF:-1,【哆啦A梦】旧版全集
-http://106.53.212.251/daili/bili.php?id=1717236
-#EXTINF:-1,中华小当家中华一番 FHD-233
-http://106.53.212.251/daili/bili.php?id=655291
-#EXTINF:-1,樱桃小丸子 蜡笔小新 蓝光特别版
-http://106.53.212.251/daili/bili.php?id=21614203
-#EXTINF:-1,樱桃小丸子国语台配
-http://106.53.212.251/daili/bili.php?id=11765640
-#EXTINF:-1,蜡笔小新24h睡觉背景音
-http://106.53.212.251/daili/bili.php?id=11579951
+http://zzy789.xyz/bili.php?id=1717236
+#EXTINF:-1,【海绵宝宝】文明观看 素质弹幕
+http://zzy789.xyz/bili.php?id=61834
+#EXTINF:-1,【海绵宝宝】24H在线连播，一起看更精彩
+http://zzy789.xyz/bili.php?id=6264785
+#EXTINF:-1,一起看宝可梦吧
+http://zzy789.xyz/bili.php?id=22926479
+#EXTINF:-1,24小时动漫番剧直播间
+http://zzy789.xyz/bili.php?id=279430
 #EXTINF:-1,经典动漫（推理、童年、灵异）
-http://106.53.212.251/daili/bili.php?id=4089143
-#EXTINF:-1,【国语】新版旧版我们这一家24H高清陪伴
-http://106.53.212.251/daili/bili.php?id=14901318
-#EXTINF:-1,哆啦A梦新版高清【国语】
-http://106.53.212.251/daili/bili.php?id=12811814
-#EXTINF:-1,台配樱桃小丸子
-http://106.53.212.251/daili/bili.php?id=5827128
-#EXTINF:-1,开心汉堡店 怪诞小镇24h轮播
-http://106.53.212.251/daili/bili.php?id=2308015
+http://zzy789.xyz/bili.php?id=4089143
 #EXTINF:-1,猫和老鼠大电影（24循环播放）
-http://106.53.212.251/daili/bili.php?id=22905626
-#EXTINF:-1,童年回忆杀!国语犬夜叉!24h不间断直播
-http://106.53.212.251/daili/bili.php?id=23089518
-#EXTINF:-1,【1080】终极一家 终极三国
-http://106.53.212.251/daili/bili.php?id=22587179
-#EXTINF:-1,狄仁杰神探系列轮播
-http://106.53.212.251/daili/bili.php?id=8331905
-#EXTINF:-1,【周星驰】喜剧 动作 僵尸 24H
-http://106.53.212.251/daili/bili.php?id=47917
-#EXTINF:-1,康熙微服私访记1—4
-http://106.53.212.251/daili/bili.php?id=4153440
-#EXTINF:-1,铁齿铜牙纪晓岚 有片头片尾勿喷
-http://106.53.212.251/daili/bili.php?id=22665698
-#EXTINF:-1,新白娘子传奇。24小时经典轮播
-http://106.53.212.251/daili/bili.php?id=5960549
-#EXTINF:-1,雍正王朝九子夺嫡
-http://106.53.212.251/daili/bili.php?id=21205932
-#EXTINF:-1,封神演义等怀旧影视轮播
-http://106.53.212.251/daili/bili.php?id=23644724
+http://zzy789.xyz/bili.php?id=22905626
+#EXTINF:-1,猫和老鼠
+http://zzy789.xyz/bili.php?id=1024814
+#EXTINF:-1,樱桃小丸子蜡笔小新蓝光特别版
+http://zzy789.xyz/bili.php?id=21614203
+#EXTINF:-1,樱桃小丸子国语台配
+http://zzy789.xyz/bili.php?id=11765640
+#EXTINF:-1,中华小当家中华一番FHD-233
+http://zzy789.xyz/bili.php?id=655291
+#EXTINF:-1,开心汉堡店怪诞小镇24h轮播
+http://zzy789.xyz/bili.php?id=2308015
+#EXTINF:-1,【蜡笔小新】国语高清，24小时直播哦！
+http://zzy789.xyz/bili.php?id=10375360
+#EXTINF:-1,【蜡笔小新】绝版画质
+http://zzy789.xyz/bili.php?id=21570935
+#EXTINF:-1,美少女战士圣斗士猫眼北斗神拳犬夜叉
+http://zzy789.xyz/bili.php?id=21887474
+#EXTINF:-1,铁齿铜牙纪晓岚o
+http://zzy789.xyz/bili.php?id=6694373
 #EXTINF:-1,铁齿铜牙纪晓岚
-http://106.53.212.251/daili/bili.php?id=23553622
-#EXTINF:-1,【松鼠精选】动作片专场丨全明星阵容
-http://106.53.212.251/daili/bili.php?id=6827037
+http://zzy789.xyz/bili.php?id=23989703
+#EXTINF:-1,【大秦帝国】超清 24小时轮播 大秦万年
+http://zzy789.xyz/bili.php?id=11259274
+#EXTINF:-1,【林正英】
+http://zzy789.xyz/bili.php?id=70155
+#EXTINF:-1,开端版【龙门镖局】
+http://zzy789.xyz/bili.php?id=81789
+#EXTINF:-1,【周星驰】
+http://zzy789.xyz/bili.php?id=47917
+#EXTINF:-1,【神断狄仁杰】
+http://zzy789.xyz/bili.php?id=22621344
+#EXTINF:-1,神碳狄仁杰
+http://zzy789.xyz/bili.php?id=23220264
+#EXTINF:-1,大宋提刑官
+http://zzy789.xyz/bili.php?id=21546991
+#EXTINF:-1,雍正王朝九子夺嫡
+http://zzy789.xyz/bili.php?id=21205932
+#EXTINF:-1,LexBurner
+http://zzy789.xyz/bili.php?id=11365
+#EXTINF:-1,-猫大人-
+http://zzy789.xyz/bili.php?id=723
+#EXTINF:-1,RM 刘在石李光洙跑男
+http://61.241.131.18/tx.rtmp.huya.com/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8
+#EXTINF:-1,搞笑的一家人
+http://61.241.131.18/tx.rtmp.huya.com/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8
+#EXTINF:-1,网球王子·费德勒看了想打人
+http://61.241.131.18/tx.rtmp.huya.com/1423782044-1423782044-6115097315612033024-2847687544-10057-A-0-1.m3u8
+#EXTINF:-1,蜡笔小新·逗比少年欢乐多
+http://61.241.131.18/tx.rtmp.huya.com/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
+#EXTINF:-1,【猫和老鼠】汤姆和杰瑞的故事
+http://61.241.131.18/tx.rtmp.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
+#EXTINF:-1,【中华小当家】看的我口水直流～
+http://61.241.131.18/tx.rtmp.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8
+#EXTINF:-1,冲啊！四驱兄弟 嘴控大战
+http://61.241.131.18/tx.rtmp.huya.com/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8
+#EXTINF:-1,成龍历险记·社会我阿福乌鸦坐飞机
+http://61.241.131.18/tx.rtmp.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.m3u8
+#EXTINF:-1,博人传最新135集重磅消息！大佬画师登场？
+http://61.241.131.18/tx.rtmp.huya.com/1199525077688-1199525077688-5279382836854390784-2399050278832-10057-A-0-1.m3u8
+#EXTINF:-1,奥特曼中那些你不知道的秘密！
+http://61.241.131.18/tx.rtmp.huya.com/1099531752759-1099531752759-86436143817555968-2199063628974-10057-A-0-1.m3u8
+#EXTINF:-1,路飞带领大家向顶上前进
+http://61.241.131.18/tx.rtmp.huya.com/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.m3u8
+#EXTINF:-1,新七龙珠，武林大会
+http://61.241.131.18/tx.rtmp.huya.com/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.m3u8
+#EXTINF:-1,海贼王我抢了尾田的笔：从奥哈拉屠魔令到空白的一百年
+http://61.241.131.18/tx.rtmp.huya.com/1199532313878-1199532313878-5310462036252033024-2399064751212-10057-A-0-1.m3u8
+#EXTINF:-1,【速看死神04】白哉登场！露琪亚被捕！——死神代理篇04
+http://61.241.131.18/tx.rtmp.huya.com/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.m3u8
+#EXTINF:-1,【死神】一护难以扭转局势！传说的零番队现身！04
+http://61.241.131.18/tx.rtmp.huya.com/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.m3u8
