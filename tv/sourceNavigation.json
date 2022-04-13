@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "name": "douyu",
+      "name": "donyu",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/tv/donyu.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -19,7 +19,7 @@
     {
       "name": "Bilibili",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/Bilibili.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/tv/Bilibili.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -35,7 +35,7 @@
      {
       "name": "Huya",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/huya.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/xpath/huya.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
