@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "name": "donyu",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/tv/donyu.txt",
-      "type": "txt",
+      "name": "douyu",
+      "pic": "https://rpic.douyucdn.cn/asrpic/220421/131977_1516.png/dy2",
+      "webUrl": "https://pastebin.com/raw/g0bQX4KW",
+      "type": "gitJson",
       "subTitle": "",
       "click": true,
       "autoNext": false,
@@ -13,14 +13,14 @@
       "keyUpPlay": true,
       "userAgent": "",
       "ads": "",
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     }, 
     {
       "name": "Bilibili",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/tv/Bilibili.txt",
-      "type": "txt",
+      "pic": "http://i0.hdslb.com/bfs/live/new_room_cover/5df1e7f98bd2803a20dc0b7b5c5724d363441a6d.jpg",
+      "webUrl": "https://pastebin.com/raw/300tNnjK",
+      "type": "gitJson",
       "subTitle": "",
       "click": true,
       "autoNext": false,
@@ -29,14 +29,14 @@
       "keyUpPlay": true,
       "userAgent": "",
       "ads": "",
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     }, 
-     {
+    {
       "name": "Huya",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/xpath/huya.m3u",
-      "type": "m3u",
+      "pic": "https://huyaimg.msstatic.com/avatar/1029/18/5d04dbcf6ab709f749023603de2b86_180_135.jpg",
+      "webUrl": "https://pastebin.com/raw/dw8G4wQG",
+      "type": "gitJson",
       "subTitle": "",
       "click": true,
       "autoNext": false,
@@ -45,7 +45,7 @@
       "keyUpPlay": true,
       "userAgent": "",
       "ads": "",
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     }, 
      {
@@ -83,7 +83,7 @@
     {
       "name": "json格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://pastebin.com/raw/Ue63BWUp",
+      "webUrl": "https://pastebin.com/raw/dw8G4wQG",
       "type": "gitJson",
       "subTitle": "",
       "click": true,
@@ -93,7 +93,7 @@
       "keyUpPlay": true,
       "userAgent": "",
       "ads": "",
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
